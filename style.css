@@ -1,0 +1,24 @@
+/* Estilo para los días */
+.dia {
+  font-weight: bold;
+  color: blue;
+  font-size: 18px;
+}
+
+.diadomingo{
+  font-weight: bold;
+  color: red;
+  font-size: 18px;
+
+}
+
+/* Estilo para los horarios */
+.horario {
+  font-style: italic;
+  color:  blue;
+}
+
+/* Estilo para las etiquetas h1 */
+.h1{
+  font-weight: bold;
+}
